@@ -1,3 +1,3 @@
-You can access the live application at [https://e-shopit.vercel.app/](https://e-shopit.vercel.app/).
+NARA AMONG FRONT END YA [https://github.com/korbbii/MERN-Project2](https://github.com/korbbii/MERN-Project2)
 
 
